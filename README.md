@@ -32,7 +32,7 @@ Pós Graguando em Data Engenieer
 
 
  [!Snake animation]
-  (https://github.com/giovannigomesgt/giovannigomesgt/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/giovannigomesgt/giovannigomesgt/blob/output/github-contribution-grid-snake.gif)
           
   
          
