@@ -28,16 +28,19 @@ Pós Graguando em Data Engenieer
   <a href = "mailto:giovannigleocadio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/giovannigomesgt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-           
- 
-          
-          
+
+  
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovannigomesgt/giovannigomesgt/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/giovannigomesgt/giovannigomesgt/output/github-contribution-grid-snake.svg">
+</picture>
+
+ [!Snake animation](https://github.com/giovannigomesgt/giovannigomesgt/blob/output/github-contribution-grid-snake.svg)
           
   
          
           
-         
-          
+       
      
           
           
