@@ -18,8 +18,8 @@
   ##
   <div style="display: inline_block" align="center"><br>
     <a href="https://github.com/giovannigomesgt">
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigomesgt&layout=compact&theme=tokyonight">
-    <img height = "200em" src = "https://github-readme-stats.vercel.app/api?username=giovannigomesgt&show_icons=true&theme=tokyonight">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigomesgt&layout=compact&theme=tokyonight">
+    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=giovannigomesgt&show_icons=true&theme=tokyonight">
   </div>
   <br>
 
