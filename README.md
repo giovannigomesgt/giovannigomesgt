@@ -3,7 +3,7 @@
     <h5>
      🔎 Hoje trabalhando como Data Engenieer Jr no ramo de Seguros
      <br/>
-     📘 Pós Graguando em Data Engenieer
+     📘 Pós Graguando em Engenharia de Dados na Puc Minas
     </h5>
     <div style="display: inline_block" align="center"><br>
       <img align="center" alt="Gio-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
