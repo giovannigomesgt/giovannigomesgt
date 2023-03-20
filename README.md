@@ -1,7 +1,8 @@
 <div>
     <h1> Opa! 👋 eu sou o Giovanni </h1>
     <h5>
-     🔎 Hoje trabalhando como Data Engenieer Jr no ramo de Seguros<br/>
+     🔎 Hoje trabalhando como Data Engenieer Jr no ramo de Seguros
+     <br/>
      📘 Pós Graguando em Data Engenieer
     </h5>
     <div style="display: inline_block" align="center"><br>
@@ -15,13 +16,7 @@
       <img align="center" alt="Gio-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
    </div>
    </br>
-  <div style="display: inline_block" align="center"><br>
-    <a href="https://github.com/giovannigomesgt">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigomesgt&layout=compact&theme=tokyonight">
-    <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=giovannigomesgt&show_icons=true&theme=tokyonight">
-  </div>
-  <br>
-    
+      
   <div align="center">
     <img alt="github contribution grid snake animation" src="https://github.com/giovannigomesgt/giovannigomesgt/blob/output/github-contribution-grid-snake.svg">
   </div>
