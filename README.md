@@ -1,7 +1,7 @@
 <div>
     <h1> Opa! 👋 eu sou o Giovanni </h1>
     <h5>
-     🔎 Hoje trabalhando como Data Analitycs Jr<br/>
+     🔎 Hoje trabalhando como Data Engenieer Jr no ramo de Seguros<br/>
      📘 Pós Graguando em Data Engenieer
     </h5>
     <div style="display: inline_block" align="center"><br>
