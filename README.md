@@ -16,9 +16,13 @@
       <img align="center" alt="Gio-Jupyter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
    </div>
    </br>
+   <div>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigomesgt&theme=radical"> 
+    </div>
       
   <div align="center">
     <img alt="github contribution grid snake animation" src="https://github.com/giovannigomesgt/giovannigomesgt/blob/output/github-contribution-grid-snake.svg">
+    
   </div>
     
       
