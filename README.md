@@ -1,7 +1,7 @@
 <div>
     <h1> Opa! 👋 eu sou o Giovanni </h1>
     <h5>
-     🔎 Hoje trabalhando como Data Engenieer Jr no ramo de Seguros
+     🔎 Hoje trabalhando como Data Engenieer PL no ramo de Seguros
      <br/>
      📘 Pós Graguando em Engenharia de Dados na Puc Minas
     </h5>
