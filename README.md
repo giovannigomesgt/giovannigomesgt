@@ -6,8 +6,6 @@
      📘 Pós Graguando em Engenharia de Dados na Puc Minas
     </h5>
     <div style="display: inline_block" align="center"><br>
-      <img align="center" alt="Gio-Terraform" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-      <img align="center" alt="Gio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <img align="center" alt="Gio-k8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
       <img align="center" alt="Gio-MongoDb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
       <img align="center" alt="Gio-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
