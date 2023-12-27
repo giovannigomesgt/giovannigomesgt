@@ -1,9 +1,9 @@
 <div>
     <h1> Opa! 👋 eu sou o Giovanni </h1>
     <h5>
-     🔎 Hoje trabalhando como Data Engenieer PL no ramo de Seguros
+     🔎  Data Engenieer PL no ramo de Seguros
      <br/>
-     📘 Pós Graguando em Engenharia de Dados na Puc Minas
+     📘 Pós Graduado em Engenharia de Dados pela Puc Minas
     </h5>
     <div style="display: inline_block" align="center"><br>
       <img align="center" alt="Gio-k8s" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
