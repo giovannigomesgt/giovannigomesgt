@@ -18,10 +18,6 @@
   <br/>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannigomesgt&theme=radical" alt="Top Languages" />
-  </div>
-
-  <div align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giovannigomesgt/giovannigomesgt/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giovannigomesgt/giovannigomesgt/output/github-contribution-grid-snake.svg">
